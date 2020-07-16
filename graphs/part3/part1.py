@@ -23,7 +23,7 @@ def convert_date(iso_string):
         A date formatted like: Weekday Date Month Year
     """
     d = datetime.strptime(iso_string, "%Y-%m-%dT%H:%M:%S%z")
-    return d.strftime('%H:%M %A %d %B %Y')
+    return d.strftime('%I:%M %p %A %d %B %Y')
 
 
 def convert_f_to_c(temp_in_farenheit):

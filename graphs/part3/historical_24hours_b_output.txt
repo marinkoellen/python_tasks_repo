@@ -1,0 +1,7 @@
+Weather summary of hourly data recorded between 09:55 PM Thursday 18 June 2020 and 08:55 PM Friday 19 June 2020:
+
+The minimum temperature of 7.2°C occured on 07:55 AM Friday 19 June 2020.
+The maximum temperature of 17.8°C occured on 03:55 PM Friday 19 June 2020.
+The total number of hours that precipitation fell in the last 24 hours was 0.
+The total number of daylight hours in the past 24 hours was 10.
+The maximum UV index was 3 and this occured at 01:55 PM Friday 19 June 2020, 12:55 PM Friday 19 June 2020 & 11:55 AM Friday 19 June 2020.
